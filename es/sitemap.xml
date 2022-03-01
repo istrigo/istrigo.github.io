@@ -2,40 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://trigo.com/es/categories/</loc>
+    <loc>https://istrigo.github.io/es/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://trigo.com/categories/"
+                href="https://istrigo.github.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://trigo.com/es/categories/"
+                href="https://istrigo.github.io/es/categories/"
                 />
   </url><url>
-    <loc>https://trigo.com/es/tags/</loc>
+    <loc>https://istrigo.github.io/es/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://trigo.com/tags/"
+                href="https://istrigo.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://trigo.com/es/tags/"
+                href="https://istrigo.github.io/es/tags/"
                 />
   </url><url>
-    <loc>https://trigo.com/es/</loc>
+    <loc>https://istrigo.github.io/es/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://trigo.com/"
+                href="https://istrigo.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://trigo.com/es/"
+                href="https://istrigo.github.io/es/"
                 />
   </url>
 </urlset>
